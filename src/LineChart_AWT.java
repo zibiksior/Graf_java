@@ -38,8 +38,6 @@ public class LineChart_AWT extends JFrame {
     private double[] noweDane = new double[PUNKTY];
     private double[] x = new double[PUNKTY];
 
-    
-
     public LineChart_AWT(String applicationTitle , String chartTitle )
     {
         super(applicationTitle);
